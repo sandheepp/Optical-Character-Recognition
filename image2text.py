@@ -10,8 +10,7 @@ filelimit = 1
 # Creating a text file to write the output 
 outfile = "out_text.txt"
 
-# Open the file in append mode so that 
-# All contents of all images are added to the same file 
+# Open the file in append mode so that all contents of all images are added to the same file 
 f = open(outfile, "a") 
 
 # Iterate from 1 to total number of pages 
