@@ -4,9 +4,7 @@
 
 ## Pre-requisites (OS: Linux)
 
-Python 3.7
-Tesseract
-Pillow
+Python 3.7, Tesseract, Pillow
 
 ### To install
 
