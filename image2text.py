@@ -13,7 +13,7 @@ outfile = "out_text.txt"
 # Open the file in append mode so that all contents of all images are added to the same file 
 f = open(outfile, "a") 
 
-# Iterate from 1 to total number of pages 
+# Iterate from 1 to total number of images
 for i in range(1, filelimit + 1): 
 
 	# Set filename to recognize text from 
@@ -26,5 +26,5 @@ for i in range(1, filelimit + 1):
 	# Finally, write the processed text to the file. 
 	f.write(text) 
 
-# Close the file after writing all the text. 
+# Close the file after writing all the text
 f.close() 
