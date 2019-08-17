@@ -1,4 +1,6 @@
 # ocr_tesseract
+Optical character recognition using tesseract library
+
 
 # 1. Image to Text
 
