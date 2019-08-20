@@ -25,3 +25,5 @@ sudo apt install tesseract-ocr
 pip install pillow
 pip install opencv-python
 ```
+# License
+MIT
