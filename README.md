@@ -12,7 +12,7 @@ Python 3.7, Tesseract, Pillow
 sudo apt install tesseract-ocr
 pip install pillow
 ```
-# 2. PDF to Text
+# 2. PDF to Text using tesseract library
 
 ## Pre-requisites (OS: Linux)
 
